@@ -1,4 +1,15 @@
-### Hi there 👋
+# My Profile
+
+iOS Developer📱
+
+#### The iOS app I created
+
+- 🫀 [HeartRand](https://apps.apple.com/us/app/heartrand/id1549664832)
+- 🌓 [Odysseia](https://github.com/lcr3/Odysseia)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcr3)](https://github.com/lcr3 "Top Langs")
+
 
 <!--
 **lcr3/lcr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
